@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PropertyLstComponent } from './property-lst.component';
+import { UserLoginComponent } from './user-login.component';
 
-describe('PropertyLstComponent', () => {
-  let component: PropertyLstComponent;
-  let fixture: ComponentFixture<PropertyLstComponent>;
+describe('UserLoginComponent', () => {
+  let component: UserLoginComponent;
+  let fixture: ComponentFixture<UserLoginComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ PropertyLstComponent ]
+      declarations: [ UserLoginComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(PropertyLstComponent);
+    fixture = TestBed.createComponent(UserLoginComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

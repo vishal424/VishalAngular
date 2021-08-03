@@ -1,0 +1,51 @@
+[
+    {
+      "Id": 1,
+      "SellRent":1,
+      "Type": "Vishal house",
+      "Name": "House",
+      "Price": 10000,
+      "Image":"prop-1"
+    },
+
+    {
+      "Id": 2,
+      "SellRent":2,
+      "Type": "Super Hills",
+      "Name": "Shetty hills",
+      "Price": 120000,
+      "Image":"prop-2"
+    },
+
+    {
+      "Id": 3,
+      "SellRent":1,
+      "Type": "Apna Villa",
+      "Name": "CU villa",
+      "Price": 200000,
+      "Image":"prop-3"
+    },
+    {
+      "Id": 4,
+      "SellRent":2,
+      "Type": "Awsm flats",
+      "Name": "Dekho flat",
+      "Price": 40000,
+      "Image":"prop-4"
+    },
+    {
+      "Id": 5,
+      "SellRent":1,
+      "Type": "BLDG",
+      "Name": "basic BLDG",
+      "Price": 60000,
+      "Image":"prop-5"
+    },
+    {
+      "Id": 6,
+      "SellRent":2,
+      "Type": "FLAT",
+      "Name": "C1 House",
+      "Price": 70000
+    }
+  ]
